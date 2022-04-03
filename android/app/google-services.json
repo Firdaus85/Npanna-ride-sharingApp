@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602246314749",
+    "project_id": "npannaapp",
+    "storage_bucket": "npannaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602246314749:android:53afa9e4bfb220ac965c94",
+        "android_client_info": {
+          "package_name": "com.example.ridesharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602246314749-acia73a8udt09qctd73in9de7mhisbqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoP-cDnkrTGwPfPhAD_LSy6uv8umG6Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602246314749-acia73a8udt09qctd73in9de7mhisbqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
